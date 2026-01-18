@@ -11,7 +11,7 @@
 
 | Period | Activity | Repository |
 |--------|----------|------------|
-| Oct 2025 | UTM Digital Innovation Expo | [🔗](https://github.com/KHALIDW23/S) |
+| Oct 2025 | UTM Digital Innovation Expo | [🔗](https://github.com/KHALIDW23/https://github.com/KHALIDW23/SECP1513-Assignment-1-UTMDigital-visit.-) |
 | Nov 2025 | PC Hardware Assembly Lab | [🔗](https://github.com/KHALIDW23/repo2) |
 | Nov 2025 | Enterprise Systems Seminar | [🔗](https://github.com/KHALIDW23/repo3) |
 | Dec 2025 | Agile Development Workshop | [🔗](https://github.com/KHALIDW23/repo4) |
