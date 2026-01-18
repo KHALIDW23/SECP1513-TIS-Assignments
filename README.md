@@ -14,7 +14,7 @@
 | Oct 2025 | UTM Digital Innovation Expo | [🔗][ UTMDigital Report ](https://github.com/KHALIDW23/SECP1513-Assignment-1-UTMDigital-visit.-) |
 | Nov 2025 | PC Hardware Assembly Lab | [🔗]([https://github.com/KHALIDW23/repo2]() |
 | Nov 2025 | Enterprise Systems Seminar | [🔗][Assignment2 Poster](https://github.com/KHALIDW23/SECP1513-Assignment-2-Poster) |
-| Dec 2025 | Agile Development Workshop | [🔗](https://github.com/KHALIDW23/repo4) |
+| Dec 2025 | Agile Development Workshop | [🔗][(Assignment3)](https://github.com/KHALIDW23/SECP1513-Assignment-3/tree/main) |
 
 ### 📊 Skills Development
 - **Technical:** System Architecture, Hardware, SAP, Cloud Platforms
